@@ -1,2 +1,2 @@
-BOT_TOKEN = "bot token"
-LASTFM_API_KEY = "API"
+BOT_TOKEN = "7810689974:AAGQbQg__N3LOeigZ1hUlmW2itO9wdC8_yw"
+LASTFM_API_KEY = "eef64daaceeb1732fcef641a57cca0b6"
